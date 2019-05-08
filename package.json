@@ -1,13 +1,13 @@
 {
   "name": "ember-simple-auth-devise-token-auth",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Authenticator and Ember Data adapter mixin for integrating Ember Simple Auth with Devise Token Auth",
   "keywords": [
     "ember-addon"
   ],
   "repository": "",
   "license": "MIT",
-  "author": "",
+  "author": "Kyle Corbelli",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -41,6 +41,7 @@
     "ember-maybe-import-regenerator": "^0.1.6",
     "ember-qunit": "^3.4.1",
     "ember-resolver": "^5.0.1",
+    "ember-simple-auth": "^1.8.2",
     "ember-source": "~3.9.0",
     "ember-source-channel-url": "^1.1.0",
     "ember-try": "^1.0.0",
