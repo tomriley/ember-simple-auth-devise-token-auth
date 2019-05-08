@@ -1,6 +1,6 @@
 {
   "name": "ember-simple-auth-devise-token-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Authenticator and Ember Data adapter mixin for integrating Ember Simple Auth with Devise Token Auth",
   "keywords": [
     "ember-addon"
