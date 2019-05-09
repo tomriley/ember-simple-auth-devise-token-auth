@@ -5,7 +5,10 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kylecorbelli/ember-simple-auth-devise-token-auth"
+  },
   "license": "MIT",
   "author": "Kyle Corbelli",
   "directories": {
