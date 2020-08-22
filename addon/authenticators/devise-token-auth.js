@@ -100,7 +100,7 @@ function deriveAccessHeaders (data) {
 }
 
 function joinUrl (...segments) {
-  return segments
+  return '/' + segments
     .map(segment => {
       return segment
         .replace(/^\//, '')
